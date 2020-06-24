@@ -6,4 +6,5 @@ void setup (){
 
 void loop(){
     Serial.print("Olá Burn In");
+    Delay(1000);
 }
